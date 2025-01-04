@@ -1,7 +1,7 @@
 # Propensify
 "Propensity Model to identify how likely certain target groups customers respond to the marketing campaign"
 
-<img src="" width=800>
+<img src="https://github.com/rpjinu/Propensify/blob/main/image_project_name.png" width=800>
 
 # Propensify: Propensity Model to Identify Customer Response to Marketing Campaigns
 
