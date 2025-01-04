@@ -80,13 +80,15 @@ The project follows a standard machine learning workflow:
         *   F1 Score
         *   ROC-AUC
 
-8.  **Model Deployment**
+8.  **Model Deployment with deploy image in streamlit**
 
     *   **Objective:** Deploy the trained model to a production environment for real-time predictions.
     *   **Steps:**
         *   Save the trained model.
-        *   Develop an API or web interface for predictions.
+        *   Develop an API or web interface for predictions using streamlit 
         *   Monitor the model's performance in production.
+   <img src="https://github.com/rpjinu/Propensify/blob/main/Propensify_deploy_imge_1.png" width=600>
+   <img src=""width=600>
 
 ## Tools and Technologies
 
