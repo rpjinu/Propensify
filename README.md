@@ -88,7 +88,8 @@ The project follows a standard machine learning workflow:
         *   Develop an API or web interface for predictions using streamlit 
         *   Monitor the model's performance in production.
    <img src="https://github.com/rpjinu/Propensify/blob/main/Propensify_deploy_imge_1.png" width=600>
-   <img src=""width=600>
+   **deployment with prediction of response**
+   <img src="https://github.com/rpjinu/Propensify/blob/main/Propensify_deploy_imge_2.png" width=600>
 
 ## Tools and Technologies
 
